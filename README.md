@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.241125 - Rogue Outcast 2X Wash](https://github.com/Chauvet-Pro/ROGUEOUTCAST2XWASH/blob/c2f6006b8246afceeb7c6813d5809dd998fb6ef9/firmware/V1.241125.zip)
+- Add 2 steps stnadalone program
+
 [V1.240318 - Rogue Outcast 2X Wash](https://github.com/Chauvet-Pro/ROGUEOUTCAST2XWASH/blob/8e31a0135239faa3a1c7cfc9fa712da1aad084d3/firmware/V1.240318.zip)
 - Fixed the issue wherein color swapping to white causes white to have a noticeable shift as it settles
 
