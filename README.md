@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.250911 - Rogue Outcast 2X Wash](https://github.com/Chauvet-Pro/ROGUEOUTCAST2XWASH/blob/a7bb323cf0db87590fd4f6d166bd89e0eba7a94c/V1.250911.zip)
+- Improved Random Strobe
+
 [V1.241125 - Rogue Outcast 2X Wash](https://github.com/Chauvet-Pro/ROGUEOUTCAST2XWASH/blob/c2f6006b8246afceeb7c6813d5809dd998fb6ef9/firmware/V1.241125.zip)
 - Add 2 steps stnadalone program
 
