@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.260420 - Rogue Outcast 2X Wash](https://github.com/Chauvet-Pro/ROGUEOUTCAST2XWASH/blob/7a4e240e6977f57427e3d57c57d2a2aeac2e38ea/firmware/V1.260610.zip)
+- Added CTC preset to color macro
+
 [V1.250911 - Rogue Outcast 2X Wash](https://github.com/Chauvet-Pro/ROGUEOUTCAST2XWASH/blob/a7bb323cf0db87590fd4f6d166bd89e0eba7a94c/V1.250911.zip)
 - Improved Random Strobe
 
